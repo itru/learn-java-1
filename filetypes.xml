@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="docm" type="Native" />
+      <mapping pattern="C_FACT" type="PLAIN_TEXT" />
+      <mapping ext="cls" type="PLAIN_TEXT" />
+      <mapping ext="frm" type="PLAIN_TEXT" />
+      <mapping ext="bas" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

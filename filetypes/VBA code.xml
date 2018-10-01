@@ -1,0 +1,21 @@
+<filetype binary="false" description="VBA classes, modules and forms' codes" name="VBA code">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="'" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="&amp;H" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="Dim;Each;End;For;If;Next;Private;Public;Then" ignore_case="false" />
+    <keywords2 keywords="CStr;Str" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="cls" />
+    <mapping ext="bas" />
+    <mapping ext="frm" />
+  </extensionMap>
+</filetype>

@@ -15,7 +15,7 @@
   </highlighting>
   <extensionMap>
     <mapping ext="cls" />
-    <mapping ext="bas" />
     <mapping ext="frm" />
+    <mapping ext="bas" />
   </extensionMap>
 </filetype>
